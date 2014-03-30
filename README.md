@@ -1,4 +1,4 @@
 Multilanguage-Dark2
 ===================
 
-This .tmTheme support CSS, HTML, PHP, Java, and others languages. Based in Nicholas Jordon work.
+This .tmTheme is working in Sublime Text 2 with support for CSS, HTML, PHP, Java, and others languages. Based in Nicholas Jordon work.
