@@ -2721,19 +2721,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CSS: type</string>
-			<key>scope</key>
-			<string>source.css support.type</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#BE27D7</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>CSS: additional-constants</string>
 			<key>scope</key>
 			<string>meta.property-value support.constant.named-color.css, meta.property-value constant</string>
